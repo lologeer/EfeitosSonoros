@@ -1,1 +1,4 @@
-alert('Hello World!');
+function trocarTeclaRisada(){
+    document.querySelector('#som_tecla_risada').play(); 
+}
+
